@@ -96,4 +96,4 @@ There are a lot more other things you can do to improve user experience but I de
 
 I hope you found something that can either be applied in your current project or upcoming projects and that you learned as much as I did writing this post, may your next/current project have the best user experience possible.
 
-Thanks, and see until time.
+Thanks, and see you next time.
