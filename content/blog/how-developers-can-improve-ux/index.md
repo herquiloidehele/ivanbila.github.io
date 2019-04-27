@@ -38,7 +38,7 @@ By using OAuth not only you have the convenience of signing in the user in witho
 
 Whether you should use Google, Twitter, Facebook, Linkedin or GitHub OAuth provider can depend based on your needs, however, more often than not, you'll use more than one OAuth provider.
 
-Given that Facebook and Google are the providers with the most users, I'll compare both and say why and when I'd use one over of the other.
+Given that Facebook and Google are the providers with the most users, I'll compare both and say why and when I'd use one over the other.
 
 Google and Facebook allow you to get almost the same information for a given user, but using one or the other might have different user experience implications to your application.
 
@@ -60,7 +60,7 @@ Google has come out with some exciting features to speed up the sign flow using,
 |:--:|
 | *Google auto sign in processing* |
 
-On Android, Google allows users to sign-in or sign-up without leaving having to leave the application, by showing a modal of the list of accounts that the user setup in that device and wants to use in your application.
+On Android, Google allows users to sign-in or sign-up without having to leave the application, by showing a modal of the list of accounts that the user setup in that device and wants to use in your application.
 
 | ![android sign in](./android-sign-in.png) |
 |:--:|
